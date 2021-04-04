@@ -1,0 +1,6 @@
+2019/03/06 00:40:59 /Users/admin/go/src/udemy_lesson/21thProject - log/lesson.go:22: logging!
+2019/03/06 00:40:59 /Users/admin/go/src/udemy_lesson/21thProject - log/lesson.go:23: string test
+2019/03/06 00:40:59 /Users/admin/go/src/udemy_lesson/21thProject - log/lesson.go:26: error!!
+2019/03/06 00:41:17 lesson.go:22: logging!
+2019/03/06 00:41:17 lesson.go:23: string test
+2019/03/06 00:41:17 lesson.go:26: error!!
